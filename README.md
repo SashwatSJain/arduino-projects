@@ -1,5 +1,4 @@
 # Set of arduino programs that i have written in the last few months
-======
 ## Execution
 * Need to have arduino IDE installed or an online arduino account in order for this programs to be uploaded to the arduino board
 * Need specific libraries installed to insert certain libraries into programs
